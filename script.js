@@ -24,4 +24,4 @@ let yourArray. = [
 	  }
   ]
 ];
-console.log(yourArray);
+console.log(yourArray.length);
