@@ -1,4 +1,4 @@
-let yourArray. = [
+let yourArray = [
   [
     {
       one: 1,
