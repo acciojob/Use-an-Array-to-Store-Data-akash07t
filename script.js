@@ -1,1 +1,1 @@
-let yourArray = ["name",2,true,]
+let yourArray = ["name",2,true]
